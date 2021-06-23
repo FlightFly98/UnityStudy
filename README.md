@@ -2,5 +2,7 @@
 
 Unity Study 저장소입니다.
 
-Section4 Sokoban 완료
-Section5 C# 프로그래밍 중급 완료
+Section4 완료
+Section5 완료
+Section6 완료
+Section7 완료
